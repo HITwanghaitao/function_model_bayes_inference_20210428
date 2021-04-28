@@ -1,0 +1,12 @@
+h_az_summary_1
+   mean     sd  hdi_2.5%  hdi_97.5%  mcse_mean  mcse_sd  ess_bulk  ess_tail  r_hat
+x  0.04  0.002     0.037      0.044        0.0      0.0    5706.0    5838.0    NaN
+h_az_summary_2
+   mean     sd  hdi_2.5%  hdi_97.5%  mcse_mean  mcse_sd  ess_bulk  ess_tail  r_hat
+x  0.04  0.001     0.038      0.042        0.0      0.0    5929.0    5761.0    NaN
+h_az_summary_3
+   mean     sd  hdi_2.5%  hdi_97.5%  mcse_mean  mcse_sd  ess_bulk  ess_tail  r_hat
+x  0.04  0.001     0.038      0.042        0.0      0.0   11710.0   11918.0    NaN
+h_az_summary_4
+   mean     sd  hdi_2.5%  hdi_97.5%  mcse_mean  mcse_sd  ess_bulk  ess_tail  r_hat
+x  0.04  0.001     0.039      0.041        0.0      0.0   17730.0   17354.0    NaN
